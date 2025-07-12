@@ -3,6 +3,8 @@
 
 ## 구성
 - favicon.ico (브라우저 탭 부분에 표시되는 shortcut icon)
+- sp_main.png (네이버의 아이콘들이 모여있는 png)
 - index.html
 - sp_main.png (네이버의 아이콘들이 모여있는 png)
-- 네이버 클론코딩.hwp (강의 내용 정리 문서)
+- 네이버 클론코딩.pdf (강의 내용 정리 문서)
+- naver_clone.png (완성된 네이버 클론 웹사이트 캡쳐본)
