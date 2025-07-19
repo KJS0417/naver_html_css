@@ -8,6 +8,5 @@
 - sp_main.png (네이버의 아이콘들이 모여있는 png)
 - index.html
 
-### 강의 정리본 및 완성된 웹사이트 캡쳐본
-- 네이버 클론코딩.pdf (강의 내용 정리 문서)
-- naver_clone.png (완성된 네이버 클론 웹사이트 캡쳐본)
+### 완성된 웹사이트 캡쳐본
+- naver_clone.png
